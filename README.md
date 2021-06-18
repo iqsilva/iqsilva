@@ -9,7 +9,7 @@ I have some works with **JavaScript**, **Node.js**, **Java**, **PL/SQL** and **A
 
 ## 📫 Contact Me on Social Media
 
-[Facebook][-1] | [Instagram][0] | [LinkedIn][1] or just ✉️ [Email](mailto:igor.queiros@outlook.com)
+[Instagram][0] | [LinkedIn][1] or just ✉️ [Email](mailto:igor.queiros@outlook.com)
 
 ## 💡 Projects with My Work
 
@@ -24,6 +24,5 @@ I have some works with **JavaScript**, **Node.js**, **Java**, **PL/SQL** and **A
 <!--
 **iqsilva/iqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[-1]: https://www.facebook.com/igor.queiros.silva
 [0]: https://www.instagram.com/igor_queiros/
 [1]: https://www.linkedin.com/in/igorqueiros/
