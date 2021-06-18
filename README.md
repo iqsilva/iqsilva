@@ -18,8 +18,8 @@ I have some works with **JavaScript**, **Node.js**, **Java**, **PL/SQL** and **A
 
 ## 💻 Open Source Work Stats
 
-![iqsilva's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva)
-![iqsilva's Github stats](https://github-readme-stats.vercel.app/api?username=iqsilva&show_icons=true)
+![iqsilva's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&theme=dark)
+![iqsilva's Github stats](https://github-readme-stats.vercel.app/api?username=iqsilva&show_icons=true&theme=dark)
 
 <!--
 **iqsilva/iqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
