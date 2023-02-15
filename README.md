@@ -1,27 +1,39 @@
-## 👋 Introduction
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor Silva
+==================================================================================================================================
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+Front-End Developer | Javascript | HTML | CSS | Angular
+-------------------------------------------------------
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+As a developer, my goal is to provide quality software with easy usability. I have been working in the field for 3 years and 11 months and have a degree in Systems Analysis and Development.
 
-Hi guys, I'm **Igor Queiros**. I am a JavaScript developer from São Paulo, Brasil. I'm currently working on @Philips as a Full Stack Developer.  
-I have some works with **JavaScript**, **Node.js**, **Java**, **PL/SQL** and **Angular**, contact me if you have same interesting!
-
-## 📫 Contact Me on Social Media
-
-[LinkedIn][0] or just ✉️ [Email](mailto:igor.queiros@outlook.com)
-
-## 💡 Projects with My Work
-
-- [**Philips**](https://www.philips.com.br/): Philips Tasy EMR (Electronical Medical Record) is a complete healthcare IT solution that integrates all areas of the institution.
-- [**KPEyes**](https://www.kpeyes.com.br/): Create, integrate and view data from all sources quickly and empower your management with SHE platform.
-
-## 💻 Open Source Work Stats
-
-![iqsilva's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&theme=dark)
-![iqsilva's Github stats](https://github-readme-stats.vercel.app/api?username=iqsilva&show_icons=true&theme=dark)
-
-<!--
-**iqsilva/iqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-[0]: https://www.linkedin.com/in/iqsilva/
+*   🌍  I'm based in São Paulo, Brazil
+*   ✉️  You can contact me at [igor.queiros@outlook.com](mailto:igor.queiros@outlook.com)
+*   🚀  I'm currently working on [Philips](http://www.philips.com.br/)
+*   🧠  I'm learning Angular
+*   🤝  I'm open to collaborating on Javascript### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/iqsilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/iqsilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/iqsilva"><img src="https://github-readme-stats.vercel.app/api?username=iqsilva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iqsilva's GitHub stats" /></a><a
+                      href="http://www.github.com/iqsilva"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=iqsilva&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/iqsilva" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
