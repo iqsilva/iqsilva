@@ -11,7 +11,10 @@ As a developer, my goal is to provide quality software with easy usability. I ha
 *   ✉️  You can contact me at [igor.queiros@outlook.com](mailto:igor.queiros@outlook.com)
 *   🚀  I'm currently working on [Philips](http://www.philips.com.br/)
 *   🧠  I'm learning Angular
-*   🤝  I'm open to collaborating on Javascript### Skills 
+*   🤝  I'm open to collaborating on Javascript
+
+### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
