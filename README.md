@@ -24,4 +24,4 @@ I have some works with **JavaScript**, **Node.js**, **Java**, **PL/SQL** and **A
 <!--
 **iqsilva/iqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[0]: https://www.linkedin.com/in/igorqueiros/
+[0]: https://www.linkedin.com/in/iqsilva/
