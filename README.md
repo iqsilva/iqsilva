@@ -4,12 +4,12 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi guys, I'm **Igor Queiros**. I am a JavaScript developer from Santa Catarina, Brasil. I'm currently working on @Philips as a Font-End Developer.  
+Hi guys, I'm **Igor Queiros**. I am a JavaScript developer from São Paulo, Brasil. I'm currently working on @Philips as a Full Stack Developer.  
 I have some works with **JavaScript**, **Node.js**, **Java**, **PL/SQL** and **Angular**, contact me if you have same interesting!
 
 ## 📫 Contact Me on Social Media
 
-[Instagram][0] | [LinkedIn][1] or just ✉️ [Email](mailto:igor.queiros@outlook.com)
+[LinkedIn][0] or just ✉️ [Email](mailto:igor.queiros@outlook.com)
 
 ## 💡 Projects with My Work
 
@@ -24,5 +24,4 @@ I have some works with **JavaScript**, **Node.js**, **Java**, **PL/SQL** and **A
 <!--
 **iqsilva/iqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[0]: https://www.instagram.com/igor_queiros/
-[1]: https://www.linkedin.com/in/igorqueiros/
+[0]: https://www.linkedin.com/in/igorqueiros/
