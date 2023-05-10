@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer | Javascript | HTML | CSS | Angular
 -------------------------------------------------------
 
-As a developer, my goal is to provide quality software with easy usability. I have been working in the field for 3 years and 11 months and have a degree in Systems Analysis and Development.
+As a developer, my goal is to provide quality software with easy usability. I have been working in the field for 4 years and have a degree in Systems Analysis and Development.
 
 *   🌍  I'm based in São Paulo, Brazil
 *   🖥️  See my portfolio at [iqsilva](http://iqsilva.github.io/)
 *   ✉️  You can contact me at [igor.queiros@outlook.com](mailto:igor.queiros@outlook.com)
-*   🚀  I'm currently working on [Philips](http://www.philips.com.br/)
+*   🚀  I'm currently open to work
 *   🧠  I'm learning Angular
 *   🤝  I'm open to collaborating on Javascript
 
