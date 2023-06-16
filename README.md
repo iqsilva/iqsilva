@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor Silva
 ==================================================================================================================================
 
-Software Engineer | Javascript | HTML | CSS | React | Angular2+ | Node.js
+Software Engineer | Javascript | HTML | CSS | React | Node.js
 -------------------------------------------------------
 
 As a developer, my goal is to provide quality software with easy usability. I have been working in the field for 4 years and have a degree in Systems Analysis and Development.
