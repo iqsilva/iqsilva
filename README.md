@@ -10,7 +10,7 @@ As a developer, my goal is to provide quality software with easy usability. I ha
 *   🖥️  See my portfolio at [iqsilva](http://iqsilva.github.io/)
 *   ✉️  You can contact me at [igor.queiros@outlook.com](mailto:igor.queiros@outlook.com)
 *   🚀  I'm currently open to work
-*   🧠  I'm learning React
+*   🧠  I'm specializing in React
 *   🤝  I'm open to collaborating on Javascript
 
 ### Main Skills 
