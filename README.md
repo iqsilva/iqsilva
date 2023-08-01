@@ -11,7 +11,7 @@ My goal is to provide quality software with easy usability.
 
 *   🌍  I'm based in São Paulo, Brazil
 *   🖥️  See my portfolio at [iqsilva](http://iqsilva.github.io/)
-*   ✉️  You can contact me at [igor.queiros@outlook.com](mailto:igor.queiros@outlook.com)
+*   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/iqsilva)
 *   🚀  I'm currently open to work
 *   🧠  I'm specializing in React
 *   🤝  I'm open to collaborating on Javascript
@@ -41,10 +41,6 @@ My goal is to provide quality software with easy usability.
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
-
-### Socials
-
-<p align="left"><a href="https://www.linkedin.com/in/iqsilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Status
 [![card](https://github-readme-stats.vercel.app/api?username=iqsilva&theme=tokyonight)](https://github.com/anuraghaz/github-readme-stats)
