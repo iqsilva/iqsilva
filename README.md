@@ -26,7 +26,7 @@ My goal is to provide quality software with easy usability.
 - Empathy
 - Leadership
 - Strategic Thinking
-- Continuous learning
+- Continuous Learning
 
 ### Hard Skills 
 
