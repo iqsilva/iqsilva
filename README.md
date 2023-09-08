@@ -43,5 +43,5 @@ My goal is to provide quality software with easy usability.
 </p>
 
 ### Status
-[![card](https://github-readme-stats.vercel.app/api?username=iqsilva&theme=tokyonight)](https://github.com/anuraghaz/github-readme-stats)
-[![iqsilva](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![card](https://github-readme-stats.vercel.app/api?username=iqsilva&theme=tokyonight)
+![iqsilva](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&theme=tokyonight&hide=java,php,asp.net,c)
