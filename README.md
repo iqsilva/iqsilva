@@ -44,4 +44,4 @@ My goal is to provide quality software with easy usability.
 
 ### Status
 ![card](https://github-readme-stats.vercel.app/api?username=iqsilva&theme=tokyonight)
-![iqsilva](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&theme=tokyonight&hide=java,php,asp.net,c,c%23)
+![iqsilva](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&theme=tokyonight&hide=java,php,asp.net,c,c%23&exclude_repo=controle-treinamento-php)
