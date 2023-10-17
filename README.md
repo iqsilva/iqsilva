@@ -38,7 +38,7 @@ My goal is to provide quality software with easy usability.
 )](https://skillicons.dev)
 
 #### Build Tools
-[![Build Tools](https://skillicons.dev/icons?i=vite
+[![Build Tools](https://skillicons.dev/icons?i=vite,react
 )](https://skillicons.dev)
 
 #### Code versioning
