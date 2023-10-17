@@ -2,8 +2,6 @@ Welcome to Igor's Github
 ==================================================================================================================================
 Software Engineer
 -------------------------------------------------------
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
--------------------------------------------------------
 ### About Me 
 Working for 5 years in the field, I am a Systems Analysis and Development Technologist.
 I helped develop software for large companies like Philips and startups like KPEyes.
@@ -11,10 +9,45 @@ My goal is to provide quality software with easy usability.
 
 *   🌍  I'm based in São Paulo, Brazil
 *   🖥️  See my portfolio at [iqsilva](http://iqsilva.github.io/)
-*   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/iqsilva)
 *   🚀  I'm currently open to work
-*   🧠  I'm specializing in React
-*   🤝  I'm open to collaborating on Javascript
+
+### Hard Skills 
+
+#### Frontend
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,redux
+)](https://skillicons.dev)
+ 
+#### Backend
+[![Habilidades back-end](https://skillicons.dev/icons?i=js,ts,nodejs,express
+)](https://skillicons.dev)
+
+#### Databases & API's
+[![Habilidades databases](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postman
+)](https://skillicons.dev)
+
+#### CI/CD
+[![CI/CD](https://skillicons.dev/icons?i=githubactions
+)](https://skillicons.dev)
+
+#### Tests
+[![Tests](https://skillicons.dev/icons?i=jest
+)](https://skillicons.dev)
+
+#### Hosting & Saas
+[![Cloud Hosting](https://skillicons.dev/icons?i=vercel,firebase,github
+)](https://skillicons.dev)
+
+#### Build Tools
+[![Build Tools](https://skillicons.dev/icons?i=vite
+)](https://skillicons.dev)
+
+#### Code versioning
+[![Versionamento](https://skillicons.dev/icons?i=git,github
+)](https://skillicons.dev)
+
+#### IDE
+[![IDE](https://skillicons.dev/icons?i=vscode,idea,eclipse
+)](https://skillicons.dev)
 
 ### Soft Skills 
 - Effective Communication
@@ -28,20 +61,8 @@ My goal is to provide quality software with easy usability.
 - Strategic Thinking
 - Continuous Learning
 
-### Hard Skills 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
-
-### Status
+### GitHub Status
 ![card](https://github-readme-stats.vercel.app/api?username=iqsilva&theme=tokyonight)
+### Most Used Languages
 ![iqsilva](https://github-readme-stats.vercel.app/api/top-langs/?username=iqsilva&theme=tokyonight&hide=java,php,asp.net,c,c%23&exclude_repo=controle-treinamento-php)
+
