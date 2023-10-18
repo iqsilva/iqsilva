@@ -14,7 +14,7 @@ My goal is to provide quality software with easy usability.
 ### Hard Skills 
 
 #### Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,redux
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass
 )](https://skillicons.dev)
  
 #### Backend
