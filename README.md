@@ -8,7 +8,8 @@ I helped develop software for large companies like Philips and startups like KPE
 My goal is to provide quality software with easy usability. 
 
 *   🌍  I'm based in São Paulo, Brazil
-*   🖥️  See my portfolio at [iqsilva](http://iqsilva.github.io/)
+*   :e-mail:  Portfolio [click here](http://iqsilva.github.io/)
+*   :computer: Stackvoverflow [click here](https://stackoverflow.com/users/22771394/igor-silva)
 *   🚀  I'm currently open to work
 
 ### Hard Skills 
