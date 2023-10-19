@@ -4,7 +4,7 @@ Software Engineer
 -------------------------------------------------------
 ### About Me 
 Working for 5 years in the field, I am a Systems Analysis and Development Technologist.
-I helped develop software for large companies like Philips and startups like KPEyes.
+I helped develop software for large companies like [Philips](https://www.philips.com/global) and startups like [KPEyes](https://www.kpeyes.com/).
 My goal is to provide quality software with easy usability. 
 
 *   🌍  I'm based in São Paulo, Brazil
@@ -15,40 +15,76 @@ My goal is to provide quality software with easy usability.
 ### Hard Skills 
 
 #### Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass
-)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html
+)](https://html.spec.whatwg.org/ "HTML")
+[![CSS](https://skillicons.dev/icons?i=css
+)](https://www.w3.org/Style/CSS/ "CSS")
+[![JavaScript](https://skillicons.dev/icons?i=js
+)](https://www.ecma-international.org/ "JavaScript")
+[![TypeScript](https://skillicons.dev/icons?i=ts
+)](https://www.typescriptlang.org/ "TypeScript")
+[![React](https://skillicons.dev/icons?i=react
+)](https://react.dev/ "React")
+[![Redux](https://skillicons.dev/icons?i=redux
+)](https://redux.js.org/ "Redux")
+[![Sass](https://skillicons.dev/icons?i=sass
+)](https://sass-lang.com/ "Sass")
  
 #### Backend
-[![Habilidades back-end](https://skillicons.dev/icons?i=js,ts,nodejs,express
-)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js
+)](https://www.ecma-international.org/ "JavaScript")
+[![TypeScript](https://skillicons.dev/icons?i=ts
+)](https://www.typescriptlang.org/ "TypeScript")
+[![NodeJS](https://skillicons.dev/icons?i=nodejs
+)](https://nodejs.org/ "Node.js")
+[![Habilidades back-end](https://skillicons.dev/icons?i=express
+)](https://expressjs.com/ "Express.js")
 
 #### Databases & API's
-[![Habilidades databases](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postman
-)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase
+)](https://firebase.google.com/ "Firebase")
+[![MongoDB](https://skillicons.dev/icons?i=mongodb
+)](https://www.mongodb.com/ "MongoDB")
+[![MySQL](https://skillicons.dev/icons?i=mysql
+)](https://www.mysql.com/ "MySQL")
+[![Postman](https://skillicons.dev/icons?i=postman
+)](https://www.postman.com/ "Postman")
 
 #### CI/CD
-[![CI/CD](https://skillicons.dev/icons?i=githubactions
-)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions
+)](https://docs.github.com/en/actions "GitHub Actions")
 
 #### Tests
-[![Tests](https://skillicons.dev/icons?i=jest
-)](https://skillicons.dev)
+[![Jest](https://skillicons.dev/icons?i=jest
+)](https://jestjs.io/ "Jest")
 
 #### Hosting & Saas
-[![Cloud Hosting](https://skillicons.dev/icons?i=vercel,firebase,github
-)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel
+)](https://vercel.com/ "Vercel")
+[![Firebase](https://skillicons.dev/icons?i=firebase
+)](https://firebase.google.com/ "Firebase")
+[![GitHub](https://skillicons.dev/icons?i=github
+)](https://github.com/ "GitHub")
 
 #### Build Tools
-[![Build Tools](https://skillicons.dev/icons?i=vite,react
-)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite
+)](https://vitejs.dev/ "Vite")
+[![React](https://skillicons.dev/icons?i=react
+)](https://react.dev/ "React")
 
 #### Code versioning
-[![Versionamento](https://skillicons.dev/icons?i=git,github
-)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git
+)](https://git-scm.com/ "Git")
+[![GitHub](https://skillicons.dev/icons?i=github
+)](https://github.com/ "GitHub")
 
 #### IDE
-[![IDE](https://skillicons.dev/icons?i=vscode,idea,eclipse
-)](https://skillicons.dev)
+[![Visual Studio Code](https://skillicons.dev/icons?i=vscode
+)](https://code.visualstudio.com/ "Visual Studio Code")
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea
+)](https://www.jetbrains.com/pt-br/idea/ "IntelliJ IDEA")
+[![Eclipse](https://skillicons.dev/icons?i=eclipse
+)](https://eclipseide.org/ "Eclipse")
 
 ### Soft Skills 
 - Effective Communication
