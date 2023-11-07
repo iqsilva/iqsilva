@@ -3,9 +3,11 @@ Welcome to Igor's Github
 Software Engineer
 -------------------------------------------------------
 ### About Me 
-Working for 5 years in the field, I am a Systems Analysis and Development Technologist.
-I helped develop software for large companies like [Philips](https://www.philips.com/global) and startups like [KPEyes](https://www.kpeyes.com/).
-My goal is to provide quality software with easy usability. 
+Software Developer with five years of experience in developing web and mobile applications for various clients, especially in the healthcare sector. I graduated from Fatec Indaiatuba with a degree in Análise e Desenvolvimento de Sistemas.
+
+In my most recent role at Philips, I worked on projects involving the Philips Electronical Medical Record for customers from Germany, Australia, Brazil, Japan, Mexico, and the Dominican Republic. I used languages and frameworks such as Java, JavaScript, Node.js, CSS, HTML5, and AngularJS, and databases such as PL/SQL with Oracle. I also performed code review, testing, service order management, and training of new programmers. I contributed to the development of innovative products such as the Patient Flow Capacity Suite, Tasy HTML5, and Tasy Framework. I am proficient in software development processes and tools, such as Git, GitHub, and GitHub Actions, and I have knowledge of user experience (UX) and user interface (UI) design principles. I am also familiar with agile methodologies (Scrum and Kanban) and continuous integration and delivery practices (CI/CD).
+
+I am passionate about creating solutions that empower users and improve their lives. I enjoy working in a team and learning from others. I have strong communication, problem-solving, critical thinking, and adaptability skills. I am always eager to learn new technologies and frameworks, and I am currently interested in React, JavaScript, Express.js, Node.js and MongoDB. I am looking for opportunities to apply my skills and experience to challenging and meaningful projects.
 
 *   🌍  I'm based in São Paulo, Brazil
 *   :floppy_disk:  Portfolio [click here](http://iqsilva.github.io/)
