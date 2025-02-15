@@ -11,7 +11,6 @@ Passionate about creating solutions that empower users and improve their lives. 
 *   🚀  I'm currently open to work
 
 ### 🔧 Hard Skills
--------------------------------------------------------
 #### 🧑‍💻 Programming Languages
 <p><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height=25> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" height=25> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height=25> <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height=25> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" height=25> <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" height=25> <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" height=25></p>
 
@@ -52,5 +51,4 @@ Passionate about creating solutions that empower users and improve their lives. 
 <p><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" height=25> <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" height=25></p>
 
 ### 🌻 Soft Skills 
--------------------------------------------------------
 <p><img src="https://img.shields.io/badge/Effective Communication-red" height=25> <img src="https://img.shields.io/badge/Teamwork-blue" height=25> <img src="https://img.shields.io/badge/Critical Thinking-green" height=25> <img src="https://img.shields.io/badge/Adaptability-yellow" height=25> <img src="https://img.shields.io/badge/Problem Solving-orange" height=25> <img src="https://img.shields.io/badge/Time Management-navy" height=25> <img src="https://img.shields.io/badge/Empathy-purple" height=25> <img src="https://img.shields.io/badge/Leadership-indigo" height=25> <img src="https://img.shields.io/badge/Strategic Thinking-brown" height=25> <img src="https://img.shields.io/badge/Continuous Learning-black" height=25></p>
