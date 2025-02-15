@@ -1,10 +1,11 @@
 ### ⁉️ About Me 
--------------------------------------------------------
 Software Developer with 6 years of experience in developing web and mobile applications for various clients, especially in the healthcare sector. Graduated from Fatec Indaiatuba with a degree in Systems Analysis and Development.
 
-In last role at John Deere, worked on projects involving SAP's Sales & Distribution Module for clients in Asia, North America, South America and Europe. Use of languages and frameworks such as HTML5, CSS3, JavaScript, React, ABAP, Fiori Apps. Also responsible for code review, testing. Contribution to the development of innovative products such as HOMER, JDPS and conversion to S/4HANA. Proficient in software development processes and tools, such as Git, GitHub and GitHub Actions, knowledge of user experience (UX) and user interface (UI) design principles. Also familiar with Agile Methodologies (Scrum and Kanban) and Continuous Integration and Delivery (CI/CD) practices.
+In last role at John Deere, worked on projects involving SAP's Sales & Distribution Module for clients in Asia, North America, South America and Europe. Use of languages and frameworks such as HTML5, CSS3, JavaScript, React, ABAP, Fiori Apps. Also responsible for code review and testing. 
 
-Passionate about creating solutions that empower users and improve their lives. Enjoy working in a team and learning from others. Strong communication, problem-solving, critical thinking, and adaptability skills. Always eager to learn new technologies and frameworks, and currently interested in React, JavaScript, Express.js, Node.js and MongoDB. Searching for opportunities to apply the skills and experience to challenging and meaningful projects.
+Contribution to the development of innovative products such as HOMER, JDPS and conversion to S/4HANA. Proficient in software development processes and tools, such as Git, GitHub and GitHub Actions, knowledge of user experience (UX) and user interface (UI) design principles. Also familiar with Agile Methodologies (Scrum and Kanban) and Continuous Integration and Delivery (CI/CD) practices.
+
+Passionate about creating solutions that empower users and improve their lives. Enjoy working in a team and learning from others. Strong communication, problem-solving, critical thinking, and adaptability skills. Searching for opportunities to apply the skills and experience to challenging and meaningful projects.
 
 *   :floppy_disk:  Portfolio [click here](http://iqsilva.github.io/)
 *   🚀  I'm currently open to work
